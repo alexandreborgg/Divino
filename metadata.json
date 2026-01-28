@@ -1,0 +1,7 @@
+{
+  "name": "Diálogo Divino",
+  "description": "Um assistente teológico especializado na Bíblia Sagrada, oferecendo sabedoria, conforto e análises fundamentadas nas Escrituras.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
